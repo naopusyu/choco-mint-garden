@@ -1,17 +1,111 @@
 ---
+import '../styles/global.css'
 
+import links from '../data/links.json'
+
+import zenn     from '../data/zenn.json'
+import note     from '../data/note.json'
+import works    from '../data/works.json'
+
+const activities = [...zenn, ...note, ...works]
+  .sort((a, b) => b.date.localeCompare(a.date))  // 日付降順
+
+const years = [...new Set(activities.map(o => o.date.slice(0, 4)))].sort().reverse()
+
+const badgeLabel: Record<string, string> = {
+  article: '記事',
+  talk:    '登壇',
+  writing: '執筆',
+  interview: 'インタビュー',
+}
+
+const featured = activities
+  .filter(o => o.featured)
+  .sort((a, b) => b.date.localeCompare(a.date))
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ポートフォリオ</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Shippori+Mincho:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="header">
+    <p class="header-tag">PORTFOLIO</p>
+    <h1 class="name">Sunao Yada</h1>
+    <p class="handle">なお (@naopusyu) </p>
+    <p class="bio">🍫チョコミント🌿が好きなエンジニア</p>
+    <div class="meta-tags">
+      <span class="tag">PHP</span>
+      <span class="tag">Laravel</span>
+    </div>
+  </header>
+
+<section>
+  <p class="section-label">LINKS</p>
+  <div class="links-categories">
+    {links.map(group => (
+      <div class="link-row">
+        <span class="link-category">{group.category}</span>
+        <div class="link-row-items">
+          {group.items.map(item => (
+            <a class="link-1" href={item.url} target="_blank" rel="noopener">
+              {item.label}
+            </a>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+</section>
+
+<section>
+  <p class="section-label">WORKS</p>
+<div class="works-list">
+  {featured.map(w => (
+    <a class="work-item" href={w.url} target="_blank" rel="noopener">
+      <div>
+        <p class="work-type">{w.type}</p>
+        <p class="work-title">{w.title}</p>
+        <p class="work-desc">{w.desc}</p>
+      </div>
+      <span class="work-arrow">↗</span>
+    </a>
+  ))}
+</div>
+
+</section>
+
+  <section>
+    <p class="section-label">ACTIVITY</p>
+    {years.map(year => (
+      <div class="year-block">
+        <p class="year-label">{year}</p>
+        {activities
+          .filter(a => a.date.startsWith(year))
+          .map(a => (
+            <a class={`activity-item`} href={a.url} target="_blank" rel="noopener">
+              <span class="activity-date">{a.date}</span>
+              <span class={`badge badge-${a.type}`}>{badgeLabel[a.type]}</span>
+              <span class="activity-title">{a.title}</span>
+              <span class="activity-source">{a.source}</span>
+            </a>
+          ))
+        }
+      </div>
+    ))}
+  </section>
+
+<footer>
+  <span>© 2026 Sunao Yada</span>
+</footer>
+
+</div>
+</body>
 </html>
