@@ -37,21 +37,21 @@ const featured = activities
 <body>
 <div class="wrap">
 
-  <header class="header">
-    <p class="header-tag">PORTFOLIO</p>
-    <div class="header-name-row">
+<header class="header">
+  <p class="header-tag">PORTFOLIO</p>
+  <div class="header-name-row">
     <img class="profile-img" src="/icon.png" alt="Sunao Yada">
     <div class="header-info">
-    <h1 class="name">Sunao Yada</h1>
-    <p class="handle">なお (@naopusyu) </p>
-    <p class="bio">🍫チョコミント🌿が好きなエンジニア</p>
-    <div class="meta-tags">
-      <span class="tag">PHP</span>
-      <span class="tag">Laravel</span>
-    </div>
+      <h1 class="name">Sunao Yada</h1>
+      <p class="handle">なお (@naopusyu) </p>
+      <p class="bio">🍫チョコミント🌿が好きなエンジニア</p>
+      <div class="meta-tags">
+        <span class="tag">PHP</span>
+        <span class="tag">Laravel</span>
+      </div>
     </div>
   </div>
-  </header>
+</header>
 
 <section>
   <p class="section-label">LINKS</p>
@@ -73,7 +73,7 @@ const featured = activities
 
 <section>
   <p class="section-label">WORKS</p>
-<div class="works-list">
+  <div class="works-list">
   {featured.map(w => (
     <a class="work-item" href={w.url} target="_blank" rel="noopener">
       <div>
@@ -84,21 +84,20 @@ const featured = activities
       <span class="work-arrow">↗</span>
     </a>
   ))}
-</div>
-
+  </div>
 </section>
 
-  <section>
-    <p class="section-label">ACTIVITY</p>
-    <div class="year-tabs">
+<section>
+  <p class="section-label">ACTIVITY</p>
+  <div class="year-tabs">
     {years.map((year, i) => (
       <button class={`year-tab ${i === 0 ? 'active' : ''}`} data-year={year}>
         {year}
       </button>
     ))}
-    </div>
+  </div>
 
-    {years.map((year, i) => (
+  {years.map((year, i) => (
     <div class={`year-block ${i === 0 ? 'active' : ''}`} data-block={year}>
       <div class="year-activities">
         {activities
