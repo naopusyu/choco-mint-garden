@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2024.12.03",
+    "type": "writing",
+    "title": "TECHNICAL MASTER はじめてのPHP エンジニア入門編",
+    "desc": "共著で執筆しました",
+    "source": "",
+    "url": "https://www.shuwasystem.co.jp/book/9784798073224.html",
+    "featured": true
+  },
+  {
+    "date": "2025.02.22",
+    "type": "talk",
+    "title": "不要コード削除のススメ",
+    "desc": "PHPカンファレンス名古屋2026 登壇資料",
+    "source": "",
+    "url": "https://www.docswell.com/s/naopusyu/KYD7W3-unused-code-cleanup",
+    "featured": true
+  },
+  {
+    "date": "2025.02.25",
+    "type": "interview",
+    "title": "新たな挑戦を後押しするエンジニアカルチャーが書籍出版も！？その執筆工程とは",
+    "desc": "",
+    "source": "",
+    "url": "https://vivivi.kaonavi.jp/articles/technical-book_250225/",
+    "featured": true
+  }
+] 

@@ -1,0 +1,731 @@
+[
+    {
+        "date": "2021.09.09",
+        "type": "article",
+        "title": "男性エンジニアが育休を取った話",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n95d585272628",
+        "featured": false
+    },
+    {
+        "date": "2021.12.28",
+        "type": "article",
+        "title": "2021年の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n2faa213994f7",
+        "featured": false
+    },
+    {
+        "date": "2022.01.19",
+        "type": "article",
+        "title": "「要領がよくないと思い込んでいる人のための仕事術図鑑」って本を読んでみたよ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n693ffe8410d8",
+        "featured": false
+    },
+    {
+        "date": "2022.09.27",
+        "type": "article",
+        "title": "PHPカンファレンス2022に参加した感想",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n5a324b63614e",
+        "featured": false
+    },
+    {
+        "date": "2022.10.22",
+        "type": "article",
+        "title": "この夏に活躍した買ってよかったもの",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n13b94134bbd4",
+        "featured": false
+    },
+    {
+        "date": "2022.12.01",
+        "type": "article",
+        "title": "チョコミントアイスの食べた記録 2022",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n6e6170e731ad",
+        "featured": false
+    },
+    {
+        "date": "2022.12.16",
+        "type": "article",
+        "title": "子育てエンジニアのとある1日",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n6b7d8c6e984a",
+        "featured": false
+    },
+    {
+        "date": "2022.11.27",
+        "type": "article",
+        "title": "「技術書」の読書術を読みました",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nf05e47e0c28e",
+        "featured": false
+    },
+    {
+        "date": "2022.12.25",
+        "type": "article",
+        "title": "2022年のアウトプット",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n44bc74c48a1e",
+        "featured": false
+    },
+    {
+        "date": "2022.12.28",
+        "type": "article",
+        "title": "2022年の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n514fb5299f07",
+        "featured": false
+    },
+    {
+        "date": "2023.01.22",
+        "type": "article",
+        "title": "2023年の目標",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n7fea611b4c11",
+        "featured": false
+    },
+    {
+        "date": "2023.02.03",
+        "type": "article",
+        "title": "良い感じのデスク環境が出来た",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n8cfae9f8caff",
+        "featured": false
+    },
+    {
+        "date": "2023.03.26",
+        "type": "article",
+        "title": "PHPerKaigi 2023 不参加でも楽しんだ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n64cf00efa30f",
+        "featured": false
+    },
+    {
+        "date": "2023.04.30",
+        "type": "article",
+        "title": "2023年4月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/na5295b9366bf",
+        "featured": false
+    },
+    {
+        "date": "2023.04.30",
+        "type": "article",
+        "title": "チョコミントな季節が始まった気がする",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n21f413e4dc61",
+        "featured": false
+    },
+    {
+        "date": "2023.05.28",
+        "type": "article",
+        "title": "2023年5月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n0a29b5b0eb41",
+        "featured": false
+    },
+    {
+        "date": "2023.05.24",
+        "type": "article",
+        "title": "「プログラマー脳」を読んだ感想",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n874933c31084",
+        "featured": false
+    },
+    {
+        "date": "2023.06.27",
+        "type": "article",
+        "title": "2023年6月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n38b061112a5a",
+        "featured": false
+    },
+    {
+        "date": "2023.07.06",
+        "type": "article",
+        "title": "おやつに食べた",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n83b430a386aa",
+        "featured": false
+    },
+    {
+        "date": "2023.07.20",
+        "type": "article",
+        "title": "セブンイレブンのチョコミント！！",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n40678eef6d83",
+        "featured": false
+    },
+    {
+        "date": "2023.07.21",
+        "type": "article",
+        "title": "シャトレーゼのチョコバッキーのミント！",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nabe7dc095c74",
+        "featured": false
+    },
+    {
+        "date": "2023.07.30",
+        "type": "article",
+        "title": "2023年7月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n52c26b747210",
+        "featured": false
+    },
+    {
+        "date": "2023.08.29",
+        "type": "article",
+        "title": "2023年8月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n49c05664ad97",
+        "featured": false
+    },
+    {
+        "date": "2023.08.20",
+        "type": "article",
+        "title": "デュアルキーボードはじめました",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nb0b34291728a",
+        "featured": false
+    },
+    {
+        "date": "2023.09.28",
+        "type": "article",
+        "title": "2023年9月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n2a392e0417e2",
+        "featured": false
+    },
+    {
+        "date": "2023.10.31",
+        "type": "article",
+        "title": "2023年10月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nc01a6937d0c8",
+        "featured": false
+    },
+    {
+        "date": "2023.10.09",
+        "type": "article",
+        "title": "PHP カンファレンス 2023に行ってきたよ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nfdeefdfaaa67",
+        "featured": false
+    },
+    {
+        "date": "2023.11.30",
+        "type": "article",
+        "title": "2023年11月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nb27a74154281",
+        "featured": false
+    },
+    {
+        "date": "2023.12.06",
+        "type": "article",
+        "title": "読んだか読んでないか覚えていない本を雑に紹介",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n0edcb84c5b36",
+        "featured": false
+    },
+    {
+        "date": "2023.12.08",
+        "type": "article",
+        "title": "いつも飲んでいるコーヒーのこと",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n2e63da915b3b",
+        "featured": false
+    },
+    {
+        "date": "2023.12.28",
+        "type": "article",
+        "title": "2023年12月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n51ee39c2e443",
+        "featured": false
+    },
+    {
+        "date": "2023.12.24",
+        "type": "article",
+        "title": "2023年に買ってよかったデスク周りのもの",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nc8f7f158d6db",
+        "featured": false
+    },
+    {
+        "date": "2023.12.28",
+        "type": "article",
+        "title": "2023年の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nc33352d4a937",
+        "featured": false
+    },
+    {
+        "date": "2024.01.15",
+        "type": "article",
+        "title": "PHPカンファレンス北海道2024 にオンラインで参加した",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/ne5ad6be30c19",
+        "featured": false
+    },
+    {
+        "date": "2024.01.30",
+        "type": "article",
+        "title": "2024年1月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n719a790caa4f",
+        "featured": false
+    },
+    {
+        "date": "2024.02.11",
+        "type": "article",
+        "title": "PHPカンファレンス関西2024に参加してきた",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n8c263513441a",
+        "featured": false
+    },
+    {
+        "date": "2024.02.28",
+        "type": "article",
+        "title": "2024年2月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n25749ed3def2",
+        "featured": false
+    },
+    {
+        "date": "2024.03.31",
+        "type": "article",
+        "title": "2024年3月の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n7a699ac99053",
+        "featured": false
+    },
+    {
+        "date": "2024.04.12",
+        "type": "article",
+        "title": "令和のCDプレーヤー",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n50b1dec0fa08",
+        "featured": false
+    },
+    {
+        "date": "2024.06.24",
+        "type": "article",
+        "title": "スマートウォッチを付けた生活は合わなかった",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n95b0481fd744",
+        "featured": false
+    },
+    {
+        "date": "2024.05.26",
+        "type": "article",
+        "title": "noteポイントを使ってみた",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nfcb2b4678297",
+        "featured": false
+    },
+    {
+        "date": "2024.07.13",
+        "type": "article",
+        "title": "大吉祥寺.pmに行ってきたよ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n9c93f6eb8630",
+        "featured": false
+    },
+    {
+        "date": "2024.09.01",
+        "type": "article",
+        "title": "この夏のチョコミント",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n664e7f7c2159",
+        "featured": false
+    },
+    {
+        "date": "2024.08.26",
+        "type": "article",
+        "title": "フロントエンドカンファレンス北海道2024にオンラインで参加した",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nd6bbf6ac8851",
+        "featured": false
+    },
+    {
+        "date": "2024.09.10",
+        "type": "article",
+        "title": "復活！マイルドカフェオーレ！",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n7046bdcbf262",
+        "featured": false
+    },
+    {
+        "date": "2024.10.27",
+        "type": "article",
+        "title": "「プログラムを読む技術」を読んだ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n37f48ea2a137",
+        "featured": false
+    },
+    {
+        "date": "2024.11.23",
+        "type": "article",
+        "title": "COFOのモニターアームを手に入れた",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n6fcd5cef2467",
+        "featured": false
+    },
+    {
+        "date": "2024.12.09",
+        "type": "article",
+        "title": "令和の冬景色",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n7feb198ceef8",
+        "featured": false
+    },
+    {
+        "date": "2024.12.21",
+        "type": "article",
+        "title": "記事を書くために実践している4つのこと",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n3e3333528a0a",
+        "featured": false
+    },
+    {
+        "date": "2024.12.22",
+        "type": "article",
+        "title": "PHP カンファレンス 2024に行ってきたよ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n78576ef2e446",
+        "featured": false
+    },
+    {
+        "date": "2024.12.28",
+        "type": "article",
+        "title": "ひとりアドベントカレンダーを完走した振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nbf533e38e19a",
+        "featured": false
+    },
+    {
+        "date": "2024.12.29",
+        "type": "article",
+        "title": "2024年の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n0e704af8e966",
+        "featured": false
+    },
+    {
+        "date": "2025.01.04",
+        "type": "article",
+        "title": "2025年にやる10のこと",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nfde4686e2cad",
+        "featured": false
+    },
+    {
+        "date": "2025.01.27",
+        "type": "article",
+        "title": "SRE Kaigi 2025 に参加したよ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n0d40b207e767",
+        "featured": false
+    },
+    {
+        "date": "2025.02.17",
+        "type": "article",
+        "title": "Keychron B6 Proを買った！",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n2a7103ad3516",
+        "featured": false
+    },
+    {
+        "date": "2025.02.23",
+        "type": "article",
+        "title": "PHPカンファレンス名古屋2025で初登壇してきたよ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nb4da049252d2",
+        "featured": false
+    },
+    {
+        "date": "2025.03.24",
+        "type": "article",
+        "title": "PHPerKaigi2025に参加してきたよ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n2c6bba57324f",
+        "featured": false
+    },
+    {
+        "date": "2025.04.27",
+        "type": "article",
+        "title": "机の上に物が増えてきたので断捨離した",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nb5d3f2e726f9",
+        "featured": false
+    },
+    {
+        "date": "2025.05.11",
+        "type": "article",
+        "title": "生成AI乱立した時代に技術記事を書くモチベーションはどこにあるのか",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n2f3e21117eef",
+        "featured": false
+    },
+    {
+        "date": "2025.06.01",
+        "type": "article",
+        "title": "PHPカンファレンス新潟2025に参加してきたよ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n0901adea7bd8",
+        "featured": false
+    },
+    {
+        "date": "2025.06.28",
+        "type": "article",
+        "title": "PHPカンファレンス2025に参加してきたよ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n61d1ae807ee3",
+        "featured": false
+    },
+    {
+        "date": "2025.07.26",
+        "type": "article",
+        "title": "個人的に感じる開発生産性に関しての駄文",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nb1d256a14ed0",
+        "featured": false
+    },
+    {
+        "date": "2025.07.27",
+        "type": "article",
+        "title": "3COINSでSwitchのコントローラーを買った",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n83132f0acb56",
+        "featured": false
+    },
+    {
+        "date": "2025.07.27",
+        "type": "article",
+        "title": "ツールを使わないとダメっていう雰囲気に対する駄文",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n100d870948db",
+        "featured": false
+    },
+    {
+        "date": "2025.08.11",
+        "type": "article",
+        "title": "【劇場版】アニメから得た学びを発表会2025に参加してきたよ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n8d61ad811e5d",
+        "featured": false
+    },
+    {
+        "date": "2025.09.19",
+        "type": "article",
+        "title": "Platform Engineering Kaigi 2025に参加してきたよ #PEK2025",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n63fa5e31505b",
+        "featured": false
+    },
+    {
+        "date": "2025.10.27",
+        "type": "article",
+        "title": "Observability Conference Tokyo 2025 に参加してきたよ #o11yconjp",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n018a68cbf1fd",
+        "featured": false
+    },
+    {
+        "date": "2025.11.02",
+        "type": "article",
+        "title": "腕時計を付ける生活に戻した",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nc31480992853",
+        "featured": false
+    },
+    {
+        "date": "2025.12.03",
+        "type": "article",
+        "title": "2025年 買ってよかったモノ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nea9dff453649",
+        "featured": false
+    },
+    {
+        "date": "2025.12.07",
+        "type": "article",
+        "title": "2025年に積んだ本を書いて、年末年始に読み切りたい！って気持ちになる！",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n43653ea38f45",
+        "featured": false
+    },
+    {
+        "date": "2025.12.13",
+        "type": "article",
+        "title": "2025年にやる10のことの答え合わせ",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/na89980f0b5cc",
+        "featured": false
+    },
+    {
+        "date": "2025.12.18",
+        "type": "article",
+        "title": "2025年 noteの記録と振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nb81d4049b956",
+        "featured": false
+    },
+    {
+        "date": "2025.12.22",
+        "type": "article",
+        "title": "2025年 参加したカンファレンスを振り返る",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n58f24a749474",
+        "featured": false
+    },
+    {
+        "date": "2025.12.25",
+        "type": "article",
+        "title": "2025年もひとりアドベントカレンダーを完走した",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nd7798be0dae8",
+        "featured": false
+    },
+    {
+        "date": "2025.12.31",
+        "type": "article",
+        "title": "2025年の振り返り",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n4c44fdc6e95f",
+        "featured": false
+    },
+    {
+        "date": "2026.02.01",
+        "type": "article",
+        "title": "SRE Kaigi 2026 に参加してきたよ #srekaigi",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n2c857554726d",
+        "featured": false
+    },
+    {
+        "date": "2026.01.31",
+        "type": "article",
+        "title": "「今日のあなたに」を眺めている",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/ned6b8d2922b7",
+        "featured": false
+    },
+    {
+        "date": "2026.03.23",
+        "type": "article",
+        "title": "PHPerKaigi 2026に参加してきたよ #phperkaigi",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n5694e757f154",
+        "featured": false
+    },
+    {
+        "date": "2026.04.27",
+        "type": "article",
+        "title": "Pixel 9aに合わせて、新色のPixel Buds 2aを買いました",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n7027b67d69c0",
+        "featured": false
+    },
+    {
+        "date": "2026.05.13",
+        "type": "article",
+        "title": "Tachikawa.any #1 に参加してきたよ #tachikawaany",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/n5827284f6f32",
+        "featured": false
+    },
+    {
+        "date": "2026.05.29",
+        "type": "article",
+        "title": "Laravel Live Japan に参加してきたよ #LaravelLiveJP #inspired",
+        "desc": "",
+        "source": "note",
+        "url": "https://note.com/naopusyu/n/nb6c91bf7e505",
+        "featured": false
+    }
+]

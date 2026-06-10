@@ -1,0 +1,35 @@
+[
+  {
+    "category": "CODE",
+    "items": [
+      { "label": "GitHub", "url": "https://github.com/naopusyu" },
+      { "label": "GitLab", "url": "https://gitlab.com/naopusyu" }
+    ]
+  },
+  {
+    "category": "SNS",
+    "items": [
+      { "label": "X", "url": "https://x.com/naopusyu" },
+      { "label": "mixi2", "url": "https://mixi.social/@naopusyu" },
+      { "label": "Bluesky", "url": "https://bsky.app/profile/naopusyu" }
+    ]
+  },
+  {
+    "category": "WRITING",
+    "items": [
+      { "label": "Zenn", "url": "https://zenn.dev/naopusyu" },
+      { "label": "note", "url": "https://note.com/naopusyu" },
+      { "label": "しずかなインターネット", "url": "https://sizu.me/naopusyu" },
+      { "label": "Qiita", "url": "https://qiita.com/naopusyu" }
+    ]
+  },
+  {
+    "category": "OTHER",
+    "items": [
+      { "label": "Docswell", "url": "https://docswell.com/naopusyu" },
+      { "label": "connpass", "url": "https://connpass.com/user/naopusyu" },
+      { "label": "Adventar", "url": "https://adventar.org/users/naopusyu" },
+      { "label": "ブクログ", "url": "https://booklog.jp/users/naopusyu" }
+    ]
+  }
+]

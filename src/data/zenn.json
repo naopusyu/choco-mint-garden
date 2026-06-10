@@ -1,0 +1,947 @@
+[
+    {
+        "date": "2021.11.06",
+        "type": "article",
+        "title": "Composerの依存パッケージを削除する",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/d267e8292b80b6",
+        "featured": false
+    },
+    {
+        "date": "2021.12.03",
+        "type": "article",
+        "title": "Laravel8に上げるときにモデルファクトリのツライ修正をRectorを使って乗り越える",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/kaonavi/articles/cc68a0aa827bca",
+        "featured": false
+    },
+    {
+        "date": "2021.12.09",
+        "type": "article",
+        "title": "PHP8.1が出たのでmyclabs/php-enumから列挙型(Enum)に置き換えが出来るか試してみた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/3721b99e0e30cd",
+        "featured": false
+    },
+    {
+        "date": "2021.12.18",
+        "type": "article",
+        "title": "自分の記事をX（旧Twitter）にメンション付きでシェアする",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/54217bc4b41cb1",
+        "featured": false
+    },
+    {
+        "date": "2022.02.01",
+        "type": "article",
+        "title": "PHPのバージョンを上げるためにやってきたこと",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/0ce899efb98f36",
+        "featured": false
+    },
+    {
+        "date": "2022.02.16",
+        "type": "article",
+        "title": "Laravel9でSeederにNamespaceを付けないで動くか検証してみた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/72dc44dd5468aa",
+        "featured": false
+    },
+    {
+        "date": "2022.02.28",
+        "type": "article",
+        "title": "Laravel9でresources/langディレクトリを移動しないで使えるか検証してみた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/35d6fccc884f27",
+        "featured": false
+    },
+    {
+        "date": "2022.03.26",
+        "type": "article",
+        "title": "Laravelのモデルファクトリ 新旧が共存することが可能か検証してみた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/e3e8d010c4e245",
+        "featured": false
+    },
+    {
+        "date": "2022.03.29",
+        "type": "article",
+        "title": "Laravel Eloquent ORMのちょっとした小ネタ",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/9a3d108ad0f66b",
+        "featured": false
+    },
+    {
+        "date": "2022.04.10",
+        "type": "article",
+        "title": "PHPerKaigi 2022 スライドまとめ",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/9b495b2759af5e",
+        "featured": false
+    },
+    {
+        "date": "2022.05.27",
+        "type": "article",
+        "title": "Laravel マイグレーションの実行クエリを見たい",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/c2436e50db8f2a",
+        "featured": false
+    },
+    {
+        "date": "2022.06.29",
+        "type": "article",
+        "title": "composer.lockのcontent-hashがコンフリクトした時の解消方法",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/d4fd2d9ceccf9e",
+        "featured": false
+    },
+    {
+        "date": "2022.07.26",
+        "type": "article",
+        "title": "PHPからS3へのファイルアップロードをLocalStackを使ってやってみる",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/b2447fcefc76ed",
+        "featured": false
+    },
+    {
+        "date": "2022.08.29",
+        "type": "article",
+        "title": "Laravelのバージョンをあげるためにやっていること",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/444d1bbcb6d664",
+        "featured": false
+    },
+    {
+        "date": "2022.09.13",
+        "type": "article",
+        "title": "Gitマージでdry-runをやってみる",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/4b73bed8f8de4c",
+        "featured": false
+    },
+    {
+        "date": "2022.09.14",
+        "type": "article",
+        "title": "PHPUnitでprivateのメソッド、プロパティのテストを書く",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/b8b256716d571e",
+        "featured": false
+    },
+    {
+        "date": "2022.10.27",
+        "type": "article",
+        "title": "Laravel Requestクラスから型を指定してデータを取得する",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/000168b0db4d43",
+        "featured": false
+    },
+    {
+        "date": "2022.11.19",
+        "type": "article",
+        "title": "PHPUnitのテストクラスのメソッドの動く順番を調べた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/42d393c1c1b4bc",
+        "featured": false
+    },
+    {
+        "date": "2022.12.02",
+        "type": "article",
+        "title": "Composerコマンドを使ってパッケージの脆弱性をチェックする",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/64beb2e676cace",
+        "featured": false
+    },
+    {
+        "date": "2022.12.12",
+        "type": "article",
+        "title": "リリース前の Laravel 10をインストールしてみるぞ！",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/82caffc1cf6a44",
+        "featured": false
+    },
+    {
+        "date": "2023.01.10",
+        "type": "article",
+        "title": "Laravel マイグレーションコマンド まとめ",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/ac9b32191fe8fd",
+        "featured": false
+    },
+    {
+        "date": "2023.02.27",
+        "type": "article",
+        "title": "Laravel10でlangディレクトリが消えたけど、既存のLaravelプロジェクトで動くか確認した",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/62f69dbd596807",
+        "featured": false
+    },
+    {
+        "date": "2023.03.22",
+        "type": "article",
+        "title": "RustでHello World",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/7770418150d7a1",
+        "featured": false
+    },
+    {
+        "date": "2023.04.16",
+        "type": "article",
+        "title": "Laravel FormRequestクラスのauthorizeメソッドで何もしないなら実はtrueを返す必要がなくなっていたお話",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/fa4fdaf7d12dab",
+        "featured": false
+    },
+    {
+        "date": "2023.04.27",
+        "type": "article",
+        "title": "Laravel 名前付きルートのちょっとした発見",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/172e60b8b2a691",
+        "featured": false
+    },
+    {
+        "date": "2023.05.14",
+        "type": "article",
+        "title": "ZigでHello World",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/3d824d054e648e",
+        "featured": false
+    },
+    {
+        "date": "2023.05.20",
+        "type": "article",
+        "title": "PHP_CodeSnifferを使い倒すためにカスタムルールを作ってみた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/57764947432c50",
+        "featured": false
+    },
+    {
+        "date": "2023.06.04",
+        "type": "article",
+        "title": "PHPStanのBaselineってPHPファイルで作れるらしいね",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/9f126fa76ed208",
+        "featured": false
+    },
+    {
+        "date": "2023.06.09",
+        "type": "article",
+        "title": "LaravelのViewに渡した値をMiddlewareで書き換える摩訶不思議なコード",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/8fbf16c4dcc55f",
+        "featured": false
+    },
+    {
+        "date": "2023.06.13",
+        "type": "article",
+        "title": "ElixirでHello World",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/4c83d5746fe491",
+        "featured": false
+    },
+    {
+        "date": "2023.06.24",
+        "type": "article",
+        "title": "Laravelのinspireコマンドを使えなくする",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/38b386b007cbae",
+        "featured": false
+    },
+    {
+        "date": "2023.07.24",
+        "type": "article",
+        "title": "PHP_CodeSnifferのカスタムルールのテストを書くよ",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/2a9fe7f049d5dc",
+        "featured": false
+    },
+    {
+        "date": "2023.08.10",
+        "type": "article",
+        "title": "Laravel Seederクラスと対話して任意の値を渡す",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/559f91c8b72046",
+        "featured": false
+    },
+    {
+        "date": "2023.08.20",
+        "type": "article",
+        "title": "Node.jsでHello World",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/0bb946cad938c4",
+        "featured": false
+    },
+    {
+        "date": "2023.09.13",
+        "type": "article",
+        "title": "Laravelのファサードでパーシャルモックを使う",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/487d2e7792adc4",
+        "featured": false
+    },
+    {
+        "date": "2023.09.23",
+        "type": "article",
+        "title": "Laravelのルート名にプレフィックスを付ける",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/3699bbf730a84f",
+        "featured": false
+    },
+    {
+        "date": "2023.10.28",
+        "type": "article",
+        "title": "LaravelでN + 1を検知した際にログファイルに出力する",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/6e93aa9b0b277b",
+        "featured": false
+    },
+    {
+        "date": "2023.11.12",
+        "type": "article",
+        "title": "LaravelのSleepクラスって何者だ！？",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/8de459c94e7d73",
+        "featured": false
+    },
+    {
+        "date": "2023.11.13",
+        "type": "article",
+        "title": "PHPStan array shapes記法で空配列を表現できることに気づいた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/41228c415fedbc",
+        "featured": false
+    },
+    {
+        "date": "2023.11.13",
+        "type": "article",
+        "title": "PHPUnit9のデータプロバイダメソッドに引数の指定ができるぞ！(でも、PHPUnit10では非推奨、PHPUnit11以降は使えない)",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/db1a78478ef402",
+        "featured": false
+    },
+    {
+        "date": "2023.12.01",
+        "type": "article",
+        "title": "Laravelで単一テーブル継承の実装を試してみた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/78946fd5f9ed41",
+        "featured": false
+    },
+    {
+        "date": "2023.12.04",
+        "type": "article",
+        "title": "不要なコードを見極めて削除するポイント",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/kaonavi/articles/03faf2fd7a59d8",
+        "featured": false
+    },
+    {
+        "date": "2023.12.12",
+        "type": "article",
+        "title": "ドキュメントの修正から始めるOSS活動",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/kaonavi/articles/f0562d0d9a04d2",
+        "featured": false
+    },
+    {
+        "date": "2023.12.18",
+        "type": "article",
+        "title": "アウトプットは小さいことから始めよう",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/kaonavi/articles/a66c7c05f4c66c",
+        "featured": false
+    },
+    {
+        "date": "2024.01.16",
+        "type": "article",
+        "title": "Laravelのoptionalへルパ関数が便利なことに気がついた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/89f8e34097e676",
+        "featured": false
+    },
+    {
+        "date": "2024.02.05",
+        "type": "article",
+        "title": "Pestを使ってアーキテクチャテストをやってみる",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/552173ec11f929",
+        "featured": false
+    },
+    {
+        "date": "2024.03.10",
+        "type": "article",
+        "title": "Laravel11にあるmake:xxxコマンドを全部調べた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/7f09d4856b6c52",
+        "featured": false
+    },
+    {
+        "date": "2024.04.05",
+        "type": "article",
+        "title": "Laravel 10から11に上げた時のconfigの扱いにご注意ください",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/d7cb654c3f262a",
+        "featured": false
+    },
+    {
+        "date": "2024.04.17",
+        "type": "article",
+        "title": "Laravel database/seeders以外にSeederクラスを配置して実行する",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/ecce9dafa38408",
+        "featured": false
+    },
+    {
+        "date": "2024.05.10",
+        "type": "article",
+        "title": "Laravelのサービスコンテナをもっと使いこなしてみる！ bindメソッドのクロージャに引数を指定してみた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/9b111b42f7e12e",
+        "featured": false
+    },
+    {
+        "date": "2024.06.13",
+        "type": "article",
+        "title": "Laravel localeの取得と設定する方法",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/f1da40a4f7ac25",
+        "featured": false
+    },
+    {
+        "date": "2024.07.01",
+        "type": "article",
+        "title": "Composer Scriptsのphpと@phpの違い",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/7a770e09e06a84",
+        "featured": false
+    },
+    {
+        "date": "2024.08.24",
+        "type": "article",
+        "title": "PHPでスナップショットテストをやってみる",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/a52403c21d67f5",
+        "featured": false
+    },
+    {
+        "date": "2024.09.22",
+        "type": "article",
+        "title": "phpunit-snapshot-assertionsが作るスナップショットを拡張して日本語のUnicode変換を回避する",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/e41747400ff5fe",
+        "featured": false
+    },
+    {
+        "date": "2024.10.21",
+        "type": "article",
+        "title": "symfony/consoleで少しコマンドらしいツールを作る",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/af395243700fb4",
+        "featured": false
+    },
+    {
+        "date": "2024.11.13",
+        "type": "article",
+        "title": "Laravel 特定の環境でコマンドの実行を止める",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/98ca9732f5c700",
+        "featured": false
+    },
+    {
+        "date": "2024.11.30",
+        "type": "article",
+        "title": "Laravel11 aboutコマンド/docsコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/0ad194b023398c",
+        "featured": false
+    },
+    {
+        "date": "2024.12.01",
+        "type": "article",
+        "title": "Laravel11 authコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/1b481506016ffa",
+        "featured": false
+    },
+    {
+        "date": "2024.12.02",
+        "type": "article",
+        "title": "Laravel11 cacheコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/1c28e4dad09b9a",
+        "featured": false
+    },
+    {
+        "date": "2024.12.03",
+        "type": "article",
+        "title": "Laravel11 channelコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/7e44411463604a",
+        "featured": false
+    },
+    {
+        "date": "2024.12.03",
+        "type": "article",
+        "title": "Composerパッケージを作って公開までの手順",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/kaonavi/articles/eca328716d2442",
+        "featured": false
+    },
+    {
+        "date": "2024.12.04",
+        "type": "article",
+        "title": "Laravel11 completionコマンド/helpコマンド/listコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/793d51eafa1d26",
+        "featured": false
+    },
+    {
+        "date": "2024.12.05",
+        "type": "article",
+        "title": "Laravel11 configコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/a3773bf55781f6",
+        "featured": false
+    },
+    {
+        "date": "2024.12.05",
+        "type": "article",
+        "title": "Laravel11 フレームワークのconfig読み込みを無効化する手段",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/kaonavi/articles/da473a0a7fdcaa",
+        "featured": false
+    },
+    {
+        "date": "2024.12.06",
+        "type": "article",
+        "title": "Laravel11 dbコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/e0a0180e3c4c40",
+        "featured": false
+    },
+    {
+        "date": "2024.12.07",
+        "type": "article",
+        "title": "Laravel11 downコマンド/upコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/0d195144e66100",
+        "featured": false
+    },
+    {
+        "date": "2024.12.08",
+        "type": "article",
+        "title": "Laravel11 envコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/6e155abcd8c1c8",
+        "featured": false
+    },
+    {
+        "date": "2024.12.09",
+        "type": "article",
+        "title": "Laravel11 eventコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/923e368303211f",
+        "featured": false
+    },
+    {
+        "date": "2024.12.10",
+        "type": "article",
+        "title": "Laravel11 inspireコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/9757d43bf9f0d7",
+        "featured": false
+    },
+    {
+        "date": "2024.12.11",
+        "type": "article",
+        "title": "Laravel11 installコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/52925a37d9db57",
+        "featured": false
+    },
+    {
+        "date": "2024.12.12",
+        "type": "article",
+        "title": "Laravel11 keyコマンド/packageコマンド/clear-compiledコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/aab0de9f5ed7c9",
+        "featured": false
+    },
+    {
+        "date": "2024.12.13",
+        "type": "article",
+        "title": "Laravel11 langコマンド/stubコマンド/vendorコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/e3c73a5ae1ec07",
+        "featured": false
+    },
+    {
+        "date": "2024.12.14",
+        "type": "article",
+        "title": "Laravel11 migrateコマンド/schemaコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/5a1daf6a540fe7",
+        "featured": false
+    },
+    {
+        "date": "2024.12.15",
+        "type": "article",
+        "title": "Laravel11 modelコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/5cd70fa3e77c30",
+        "featured": false
+    },
+    {
+        "date": "2024.12.16",
+        "type": "article",
+        "title": "Laravel11 optimizeコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/819dd01482d731",
+        "featured": false
+    },
+    {
+        "date": "2024.12.17",
+        "type": "article",
+        "title": "Laravel11 pailコマンド/sailコマンド/tinkerコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/8676ed75580661",
+        "featured": false
+    },
+    {
+        "date": "2024.12.18",
+        "type": "article",
+        "title": "Laravel11 queueコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/8749fef79ffe6d",
+        "featured": false
+    },
+    {
+        "date": "2024.12.19",
+        "type": "article",
+        "title": "Laravel11 routeコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/056007cbf0d8f4",
+        "featured": false
+    },
+    {
+        "date": "2024.12.20",
+        "type": "article",
+        "title": "Laravel11 scheduleコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/de4ada4f37846a",
+        "featured": false
+    },
+    {
+        "date": "2024.12.21",
+        "type": "article",
+        "title": "Laravel11 serveコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/4bc2520ac0e2fe",
+        "featured": false
+    },
+    {
+        "date": "2024.12.22",
+        "type": "article",
+        "title": "Laravel11 storageコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/486cd73a137579",
+        "featured": false
+    },
+    {
+        "date": "2024.12.23",
+        "type": "article",
+        "title": "Laravel11 testコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/a69e875d5ddae4",
+        "featured": false
+    },
+    {
+        "date": "2024.12.24",
+        "type": "article",
+        "title": "PHP8.4 readonlyプロパティの動きが少し変わっていた",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/kaonavi/articles/7b1b4263e44897",
+        "featured": false
+    },
+    {
+        "date": "2024.12.24",
+        "type": "article",
+        "title": "Laravel11 viewコマンド",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/e3cf9f483740ed",
+        "featured": false
+    },
+    {
+        "date": "2024.12.24",
+        "type": "article",
+        "title": "Laravel 11 Artisanコマンド早見表：117個のリンク集",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/19eba60153bd60",
+        "featured": false
+    },
+    {
+        "date": "2025.01.18",
+        "type": "article",
+        "title": "Gemini APIを触ってみる会",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/799dd101646d79",
+        "featured": false
+    },
+    {
+        "date": "2025.02.24",
+        "type": "article",
+        "title": "Rectorを使って返す型にvoidを付ける",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/07d3e77a1a7146",
+        "featured": false
+    },
+    {
+        "date": "2025.03.29",
+        "type": "article",
+        "title": "Laravel11以降のミドルウェアの設定の書き方",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/86222755fb7168",
+        "featured": false
+    },
+    {
+        "date": "2025.04.27",
+        "type": "article",
+        "title": "NativePHP for desktop が正式リリースしたのでインストールして少し触った",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/8802b28f23e73c",
+        "featured": false
+    },
+    {
+        "date": "2025.05.25",
+        "type": "article",
+        "title": "Laravel Arrクラスを使って型指定で値を取得する",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/0d23a62444cbf3",
+        "featured": false
+    },
+    {
+        "date": "2025.06.21",
+        "type": "article",
+        "title": "Laravelのルーティングでオプショナルパラメータと条件指定を組み合わせた時の挙動",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/7adb0cdc533ded",
+        "featured": false
+    },
+    {
+        "date": "2025.07.24",
+        "type": "article",
+        "title": "PHP-CS-Fixerにfix --dry-runにcheckっていうショートカットがあった",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/ef2521a8dd53cf",
+        "featured": false
+    },
+    {
+        "date": "2025.07.26",
+        "type": "article",
+        "title": "PHPDocの@inheritDocと{@inheritDoc}の違いについて",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/d39cdccddc4fba",
+        "featured": false
+    },
+    {
+        "date": "2025.08.30",
+        "type": "article",
+        "title": "go言語のインストールからHello Worldまで",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/f48b34603b67c1",
+        "featured": false
+    },
+    {
+        "date": "2025.09.14",
+        "type": "article",
+        "title": "Gemini CLIのカスタムコマンドでZennの記事レビュー環境を構築する",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/b74972b83fc47d",
+        "featured": false
+    },
+    {
+        "date": "2025.10.05",
+        "type": "article",
+        "title": "Laravel12でmake:configコマンドがしれっと追加された",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/9929f6f579c1ed",
+        "featured": false
+    },
+    {
+        "date": "2025.11.08",
+        "type": "article",
+        "title": "Chromeに登場したSplit View（タブ分割表示）機能",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/2ef2e8c8813316",
+        "featured": false
+    },
+    {
+        "date": "2025.12.04",
+        "type": "article",
+        "title": "【PHP】composer auditの脆弱性のチェックを意図的に無視（ignore）する方法",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/kaonavi/articles/0756795815b50c",
+        "featured": false
+    },
+    {
+        "date": "2025.12.23",
+        "type": "article",
+        "title": "versitygwとPHPでローカルS3環境を試す",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/kaonavi/articles/43b8fb21c5400e",
+        "featured": false
+    },
+    {
+        "date": "2025.12.25",
+        "type": "article",
+        "title": "PHP 8.5の array_first、array_last関数の追加から振り返る、配列の「最初と最後」取得術",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/kaonavi/articles/ce8a0792ca0975",
+        "featured": false
+    },
+    {
+        "date": "2026.01.23",
+        "type": "article",
+        "title": "コマンドを簡略化するためにTaskfileを試す！",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/e8878d576898c7",
+        "featured": false
+    },
+    {
+        "date": "2026.02.24",
+        "type": "article",
+        "title": "PHPUnitのテストクラスのメソッドの動く順番を調べた（PHPUnit 13対応）",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/6c0e349b5ac14d",
+        "featured": false
+    },
+    {
+        "date": "2026.03.29",
+        "type": "article",
+        "title": "Chromeの垂直タブ機能を有効化する",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/f1381ed7341574",
+        "featured": false
+    },
+    {
+        "date": "2026.04.29",
+        "type": "article",
+        "title": "Composer Scriptsのタイムアウトを回避する方法",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/89d7342b2de2b5",
+        "featured": false
+    },
+    {
+        "date": "2026.05.25",
+        "type": "article",
+        "title": "Taskfileを使ってHomebrewを更新を一括で行う",
+        "desc": "",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/b82f03388b485f",
+        "featured": false
+    }
+]
