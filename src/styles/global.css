@@ -42,6 +42,28 @@ body::before {
 .meta-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
 .tag { background: var(--mint-faint); border: 0.5px solid var(--mint-border); color: var(--mint-bright); font-size: 11px; padding: 4px 12px; border-radius: 20px; letter-spacing: 0.06em; }
 
+.header-name-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin-bottom: 8px;
+}
+
+.profile-img {
+  width: 96px;
+  height: 96px;
+  border-radius: 16px;
+  object-fit: cover;
+  border: 2px solid var(--mint-border);
+  flex-shrink: 0;
+}
+
+.header-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
 /* SECTION */
 section { margin-bottom: 64px; animation: fadeUp 0.8s ease both; }
 section:nth-child(2) { animation-delay: 0.1s; }
