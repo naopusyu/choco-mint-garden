@@ -101,8 +101,34 @@ section:nth-child(4) { animation-delay: 0.3s; }
 
 /* ACTIVITY — 年表形式 */
 .year-block { margin-bottom: 40px; }
-.year-label { color: var(--mint); font-size: 10px; letter-spacing: 0.2em; margin-bottom: 12px; display: flex; align-items: center; gap: 12px; }
-.year-label::after { content: ''; flex: 1; height: 0.5px; background: var(--mint-border); }
+.year-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+.year-tab {
+  background: var(--choco-mid);
+  border: 0.5px solid var(--mint-border);
+  border-radius: 20px;
+  padding: 4px 16px;
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  color: var(--text-dim);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.year-tab.active {
+  background: var(--mint);
+  border-color: var(--mint);
+  color: #fff;
+}
+.year-tab:hover:not(.active) {
+  background: var(--choco-light);
+  color: var(--text);
+}
+.year-block { display: none; }
+.year-block.active { display: block; }
 
 .activity-item {
   border-bottom: 0.5px solid var(--mint-border);

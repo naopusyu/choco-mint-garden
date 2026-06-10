@@ -85,13 +85,21 @@ const featured = activities
 
   <section>
     <p class="section-label">ACTIVITY</p>
-    {years.map(year => (
-      <div class="year-block">
-        <p class="year-label">{year}</p>
+    <div class="year-tabs">
+    {years.map((year, i) => (
+      <button class={`year-tab ${i === 0 ? 'active' : ''}`} data-year={year}>
+        {year}
+      </button>
+    ))}
+    </div>
+
+    {years.map((year, i) => (
+    <div class={`year-block ${i === 0 ? 'active' : ''}`} data-block={year}>
+      <div class="year-activities">
         {activities
           .filter(a => a.date.startsWith(year))
           .map(a => (
-            <a class={`activity-item`} href={a.url} target="_blank" rel="noopener">
+            <a class="activity-item" href={a.url} target="_blank" rel="noopener">
               <span class="activity-date">{a.date}</span>
               <span class={`badge badge-${a.type}`}>{badgeLabel[a.type]}</span>
               <span class="activity-title">{a.title}</span>
@@ -100,8 +108,23 @@ const featured = activities
           ))
         }
       </div>
+      </div>
     ))}
   </section>
+
+<script>
+  const tabs = document.querySelectorAll('.year-tab')
+  const blocks = document.querySelectorAll('.year-block')
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      tabs.forEach(t => t.classList.remove('active'))
+      blocks.forEach(b => b.classList.remove('active'))
+      tab.classList.add('active')
+      document.querySelector(`[data-block="${tab.dataset.year}"]`).classList.add('active')
+    })
+  })
+</script>
 
 <footer>
   <span>© 2026 Sunao Yada</span>
