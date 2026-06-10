@@ -72,7 +72,7 @@ const featured = activities
   {featured.map(w => (
     <a class="work-item" href={w.url} target="_blank" rel="noopener">
       <div>
-        <p class="work-type">{w.type}</p>
+        <p class="work-type">{badgeLabel[w.type]}</p>
         <p class="work-title">{w.title}</p>
         <p class="work-desc">{w.desc}</p>
       </div>
