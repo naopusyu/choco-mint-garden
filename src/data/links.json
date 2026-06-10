@@ -26,9 +26,9 @@
   {
     "category": "OTHER",
     "items": [
-      { "label": "Docswell", "url": "https://docswell.com/naopusyu" },
-      { "label": "connpass", "url": "https://connpass.com/user/naopusyu" },
-      { "label": "Adventar", "url": "https://adventar.org/users/naopusyu" },
+      { "label": "Docswell", "url": "https://www.docswell.com/user/naopusyu" },
+      { "label": "connpass", "url": "https://connpass.com/user/naopusyu/" },
+      { "label": "Adventar", "url": "https://adventar.org/users/42029" },
       { "label": "ブクログ", "url": "https://booklog.jp/users/naopusyu" }
     ]
   }
