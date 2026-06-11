@@ -115,7 +115,18 @@ section:nth-child(4) { animation-delay: 0.3s; }
 .work-arrow { color: var(--text-dim); font-size: 14px; transition: transform 0.15s; flex-shrink: 0; }
 
 /* BADGE */
-.badge { display: inline-block; font-size: 9px; letter-spacing: 0.08em; padding: 2px 8px; border-radius: 20px; white-space: nowrap; flex-shrink: 0; }
+.badge { 
+  display: inline-block; 
+  font-size: 9px; 
+  letter-spacing: 0.08em; 
+  padding: 2px 8px; 
+  border-radius: 20px; 
+  white-space: nowrap; 
+  flex-shrink: 0;
+  grid-row: 1;
+  grid-column: 2;
+  justify-self: start;
+}
 .badge-article   { background: rgba(45,191,126,0.15); color: var(--mint-dim); border: 0.5px solid rgba(45,191,126,0.35); }
 .badge-talk      { background: rgba(160,100,50,0.12); color: #7A4E2A; border: 0.5px solid rgba(160,100,50,0.3); }
 .badge-writing   { background: rgba(160,100,50,0.08); color: #7A4E2A; border: 0.5px solid rgba(160,100,50,0.2); }
@@ -157,17 +168,39 @@ section:nth-child(4) { animation-delay: 0.3s; }
   padding: 13px 0;
   text-decoration: none;
   display: grid;
-  grid-template-columns: 90px auto 1fr auto;
-  align-items: center;
-  gap: 12px;
+  grid-template-columns: 90px 1fr auto;
+  grid-template-rows: auto auto;
+  align-items: baseline;
+  gap: 2px 12px;
   transition: padding-left 0.15s;
 }
 .activity-item:first-child { border-top: 0.5px solid var(--mint-border); }
 .activity-item:hover { padding-left: 8px; }
-.activity-date  { color: var(--text-dim); font-size: 11px; white-space: nowrap; }
-.activity-title { color: var(--text-muted); font-size: 13px; line-height: 1.4; transition: color 0.15s; }
+.activity-date {
+  color: var(--text-dim);
+  font-size: 11px;
+  white-space: nowrap;
+  grid-row: 1;
+  grid-column: 1;
+}
+.activity-title { 
+  color: var(--text-muted);
+  font-size: 13px;
+  line-height: 1.4;
+  transition: color 0.15s;
+  grid-row: 2;
+  grid-column: 2;
+}
 .activity-item:hover .activity-title { color: var(--text); }
-.activity-source { color: var(--mint-dim); font-size: 10px; letter-spacing: 0.08em; white-space: nowrap; }
+.activity-source {
+  color: var(--mint-dim);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+  grid-row: 2;
+  grid-column: 3;
+  align-self: end;
+}
 
 /* FOOTER */
 footer {
