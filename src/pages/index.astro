@@ -20,9 +20,7 @@ const badgeLabel: Record<string, string> = {
   interview: 'インタビュー',
 }
 
-const featured = activities
-  .filter(o => o.featured)
-  .sort((a, b) => b.date.localeCompare(a.date))
+const featured = works.filter(o => o.featured)
 ---
 
 <html lang="ja">
