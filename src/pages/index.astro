@@ -109,9 +109,11 @@ const featured = works.filter(o => o.featured)
           .map(a => (
             <a class="activity-item" href={a.url} target="_blank" rel="noopener">
               <span class="activity-date">{a.date}</span>
-              <span class={`badge badge-${a.type}`}>{badgeLabel[a.type]}</span>
+              <div class="activity-meta">
+                <span class={`badge badge-${a.type}`}>{badgeLabel[a.type]}</span>
+                <span class="activity-source">{a.source}</span>
+              </div>
               <span class="activity-title">{a.title}</span>
-              <span class="activity-source">{a.source}</span>
             </a>
           ))
         }
