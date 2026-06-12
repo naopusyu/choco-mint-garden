@@ -218,7 +218,6 @@ footer {
 
 @media (max-width: 480px) {
   .wrap { padding: 48px 20px 80px; }
-  .links-grid { grid-template-columns: repeat(2, 1fr); }
-  .output-item { grid-template-columns: 80px auto 1fr; }
-  .output-source { display: none; }
+  .activity-item { grid-template-columns: 80px auto 1fr; }
+  .activity-source { display: none; }
 }
