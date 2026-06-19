@@ -9,7 +9,7 @@ import sizu     from '../data/sizu.json'
 import works    from '../data/works.json'
 
 const activities = [...zenn, ...note, ...sizu, ...works]
-  .sort((a, b) => b.date.localeCompare(a.date))  // 日付降順
+  .sort((a, b) => b.date.localeCompare(a.date)) // 日付降順
 
 const years = [...new Set(activities.map(o => o.date.slice(0, 4)))].sort().reverse()
 
@@ -122,6 +122,12 @@ const featured = works.filter(o => o.featured)
   ))}
 </section>
 
+<footer>
+  <span>© 2026 Sunao Yada</span>
+</footer>
+
+</div>
+
 <script>
   const tabs = document.querySelectorAll('.year-tab')
   const blocks = document.querySelectorAll('.year-block')
@@ -136,10 +142,5 @@ const featured = works.filter(o => o.featured)
   })
 </script>
 
-<footer>
-  <span>© 2026 Sunao Yada</span>
-</footer>
-
-</div>
 </body>
 </html>
