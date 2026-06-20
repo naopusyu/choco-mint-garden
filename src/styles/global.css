@@ -247,6 +247,11 @@ footer {
 .top-title {
   font-size: 48px;
 }
+.top-desc {
+  color: var(--text-muted);
+  font-size: 13px;
+  line-height: 1.7;
+}
 .top-link {
   color: var(--mint-dim);
   font-size: 14px;
