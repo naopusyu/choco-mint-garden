@@ -228,3 +228,34 @@ footer {
   .activity-item { grid-template-columns: 70px 1fr; }
   .activity-meta { gap: 6px; flex-wrap: wrap; align-items: flex-start; }
 }
+
+/* TOP */
+.top-wrap {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  text-align: center;
+}
+.top-tag {
+  color: var(--mint);
+  font-size: 11px;
+  letter-spacing: 0.2em;
+}
+.top-title {
+  font-size: 48px;
+}
+.top-link {
+  color: var(--mint-dim);
+  font-size: 14px;
+  text-decoration: none;
+  border-bottom: 1px solid var(--mint-border);
+  padding-bottom: 4px;
+  transition: color 0.15s, border-color 0.15s;
+}
+.top-link:hover {
+  color: var(--text);
+  border-color: var(--mint-dim);
+}
