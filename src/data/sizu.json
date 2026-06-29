@@ -1,19 +1,5 @@
 [
   {
-    "date": "2024.01.12",
-    "type": "article",
-    "title": "PHPカンファレンス北海道2024 前夜祭",
-    "source": "しずかなインターネット",
-    "url": "https://sizu.me/naopusyu/posts/nfn2i42x2a99"
-  },
-  {
-    "date": "2024.01.13",
-    "type": "article",
-    "title": "PHPカンファレンス北海道2024",
-    "source": "しずかなインターネット",
-    "url": "https://sizu.me/naopusyu/posts/z9xor7wd05a1"
-  },
-  {
     "date": "2024.02.09",
     "type": "article",
     "title": "思想的負債、組織的負債",
@@ -54,13 +40,6 @@
     "title": "きのこカンファレンスの不参加レポート",
     "source": "しずかなインターネット",
     "url": "https://sizu.me/naopusyu/posts/ovdhten947hm"
-  },
-  {
-    "date": "2025.10.21",
-    "type": "article",
-    "title": "PHP関連のカンファレンス参加履歴",
-    "source": "しずかなインターネット",
-    "url": "https://sizu.me/naopusyu/posts/a4o1oirwo9w0"
   },
   {
     "date": "2025.12.02",
@@ -119,60 +98,11 @@
     "url": "https://sizu.me/naopusyu/posts/eizdiusr83sw"
   },
   {
-    "date": "2026.03.20",
-    "type": "article",
-    "title": "PHPerKaigi2026 day0 #phperkaigi",
-    "source": "しずかなインターネット",
-    "url": "https://sizu.me/naopusyu/posts/12uor7540tv7"
-  },
-  {
-    "date": "2026.03.21",
-    "type": "article",
-    "title": "PHPerKaigi2026 day1 #phperkaigi",
-    "source": "しずかなインターネット",
-    "url": "https://sizu.me/naopusyu/posts/4b0s67uokt2i"
-  },
-  {
-    "date": "2026.03.22",
-    "type": "article",
-    "title": "PHPerKaigi2026 day2 #phperkaigi",
-    "source": "しずかなインターネット",
-    "url": "https://sizu.me/naopusyu/posts/1nkoo9cuz5to"
-  },
-  {
     "date": "2026.03.28",
     "type": "article",
     "title": "Terminal Night #2 をオンライン視聴した",
     "source": "しずかなインターネット",
     "url": "https://sizu.me/naopusyu/posts/aoz5c03nin09"
-  },
-  {
-    "date": "2026.04.14",
-    "type": "article",
-    "title": "DevOpsDays Tokyo 2026 Day 1",
-    "source": "しずかなインターネット",
-    "url": "https://sizu.me/naopusyu/posts/xxn5eedkaav7"
-  },
-  {
-    "date": "2026.04.16",
-    "type": "article",
-    "title": "DevOpsDays Tokyo 2026 Day 2",
-    "source": "しずかなインターネット",
-    "url": "https://sizu.me/naopusyu/posts/0780mibvbudu"
-  },
-  {
-    "date": "2026.05.26",
-    "type": "article",
-    "title": "Laravel Live Japan Day1 #LaravelLiveJP",
-    "source": "しずかなインターネット",
-    "url": "https://sizu.me/naopusyu/posts/59zhi5ekoikx"
-  },
-  {
-    "date": "2026.05.28",
-    "type": "article",
-    "title": "Laravel Live Japan Day2 #LaravelLiveJP",
-    "source": "しずかなインターネット",
-    "url": "https://sizu.me/naopusyu/posts/k6vdh37u7dm6"
   },
   {
     "date": "2026.06.07",
