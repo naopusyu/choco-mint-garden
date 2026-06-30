@@ -558,5 +558,12 @@
         "title": "Taskfileを使ってHomebrewを更新を一括で行う",
         "source": "Zenn",
         "url": "https://zenn.dev/naopusyu/articles/b82f03388b485f"
+    },
+    {
+        "date": "2026.06.30",
+        "type": "article",
+        "title": "Laravel Model::shouldBeStrict() で何をやっているのか",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/371afde869697b"
     }
 ]
