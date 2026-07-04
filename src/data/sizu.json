@@ -1,5 +1,40 @@
 [
   {
+    "date": "2024.01.23",
+    "type": "article",
+    "title": "チーム開発におけるパワーバランス",
+    "source": "しずかなインターネット",
+    "url": "https://sizu.me/naopusyu/posts/k6i4ixvdcbvu"
+  },
+  {
+    "date": "2024.01.24",
+    "type": "article",
+    "title": "コードを消すためにテストを書く",
+    "source": "しずかなインターネット",
+    "url": "https://sizu.me/naopusyu/posts/6v5ivhx7sn39"
+  },
+  {
+    "date": "2024.01.25",
+    "type": "article",
+    "title": "作っては消すを繰り返す開発をしている",
+    "source": "しずかなインターネット",
+    "url": "https://sizu.me/naopusyu/posts/cova0omcnhtm"
+  },
+  {
+    "date": "2024.01.29",
+    "type": "article",
+    "title": "コードレビューは何のためにやるのか",
+    "source": "しずかなインターネット",
+    "url": "https://sizu.me/naopusyu/posts/zwn4f5489x73"
+  },
+  {
+    "date": "2024.01.30",
+    "type": "article",
+    "title": "不得意な開発領域をどのように学んでいくべきか",
+    "source": "しずかなインターネット",
+    "url": "https://sizu.me/naopusyu/posts/2br4n9f8sbdm"
+  },
+  {
     "date": "2024.02.09",
     "type": "article",
     "title": "思想的負債、組織的負債",
@@ -35,11 +70,25 @@
     "url": "https://sizu.me/naopusyu/posts/tvz5w7darv57"
   },
   {
+    "date": "2024.07.23",
+    "type": "article",
+    "title": "脅迫駆動開発",
+    "source": "しずかなインターネット",
+    "url": "https://sizu.me/naopusyu/posts/zdri6vf8eut4"
+  },
+  {
     "date": "2025.03.09",
     "type": "article",
     "title": "きのこカンファレンスの不参加レポート",
     "source": "しずかなインターネット",
     "url": "https://sizu.me/naopusyu/posts/ovdhten947hm"
+  },
+  {
+    "date": "2025.04.20",
+    "type": "article",
+    "title": "同じ場所に長くいると良いこともあれば、悪いこともある",
+    "source": "しずかなインターネット",
+    "url": "https://sizu.me/naopusyu/posts/atzzn710mbc9"
   },
   {
     "date": "2025.12.02",
