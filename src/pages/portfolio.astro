@@ -8,7 +8,7 @@ import note     from '../data/note.json'
 import sizu     from '../data/sizu.json'
 import works    from '../data/works.json'
 
-const activities = [...zenn, ...note, ...sizu, ...works]
+const activities = [...zenn, ...note, ...sizu]
   .sort((a, b) => b.date.localeCompare(a.date)) // 日付降順
 
 const years = [...new Set(activities.map(o => o.date.slice(0, 4)))].sort().reverse()
@@ -21,6 +21,7 @@ const badgeLabel: Record<string, string> = {
 }
 
 const featured = works.filter(o => o.featured)
+  .sort((a, b) => b.date.localeCompare(a.date)) // 日付降順
 ---
 
 <html lang="ja">
