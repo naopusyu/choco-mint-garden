@@ -565,5 +565,12 @@
         "title": "Laravel Model::shouldBeStrict() で何をやっているのか",
         "source": "Zenn",
         "url": "https://zenn.dev/naopusyu/articles/371afde869697b"
+    },
+    {
+        "date": "2026.07.27",
+        "type": "article",
+        "title": "Laravel Model::shouldBeStrict() をもう少しだけ踏み込んだ使い方をする",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/35c764d886230b"
     }
 ]
