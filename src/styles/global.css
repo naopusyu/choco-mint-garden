@@ -36,7 +36,7 @@ body::before {
 .header { margin-bottom: 72px; animation: fadeUp 0.8s ease both; }
 .header-tag { color: var(--mint); font-size: 11px; letter-spacing: 0.15em; margin-bottom: 20px; display: flex; align-items: center; gap: 8px; }
 .header-tag::before { content: ''; display: block; width: 24px; height: 1px; background: var(--mint); }
-.name { font-family: 'Shippori Mincho', serif; font-size: clamp(36px, 8vw, 56px); font-weight: 500; line-height: 1.1; letter-spacing: -0.01em; margin-bottom: 8px; }
+.name { font-family: 'Shippori Mincho', serif; font-size: clamp(22px, 5vw, 36px); font-weight: 500; line-height: 1.1; letter-spacing: -0.01em; margin-bottom: 8px; }
 .handle { color: var(--mint-dim); font-size: 13px; letter-spacing: 0.05em; margin-bottom: 20px; }
 .bio { color: var(--text-muted); font-size: 13px; line-height: 1.8; max-width: 480px; border-left: 1.5px solid var(--mint-border); padding-left: 16px; }
 .meta-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
