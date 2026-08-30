@@ -572,5 +572,12 @@
         "title": "Laravel Model::shouldBeStrict() をもう少しだけ踏み込んだ使い方をする",
         "source": "Zenn",
         "url": "https://zenn.dev/naopusyu/articles/35c764d886230b"
+    },
+    {
+        "date": "2026.08.30",
+        "type": "article",
+        "title": "Laravelの`request()`はいつContainerに登録されるのか",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/78b3b8a18b125b"
     }
 ]
