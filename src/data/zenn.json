@@ -579,5 +579,12 @@
         "title": "Laravelの`request()`はいつContainerに登録されるのか",
         "source": "Zenn",
         "url": "https://zenn.dev/naopusyu/articles/78b3b8a18b125b"
+    },
+    {
+        "date": "2026.09.30",
+        "type": "article",
+        "title": "Git 2.56.0で追加された git branch --delete-merged を試す",
+        "source": "Zenn",
+        "url": "https://zenn.dev/naopusyu/articles/69c881da8fa1d6"
     }
 ]
