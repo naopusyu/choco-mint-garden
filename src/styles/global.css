@@ -108,6 +108,7 @@ section:nth-child(4) { animation-delay: 0.3s; }
 .work-item:hover { background: var(--choco-light); border-color: var(--mint-dim); }
 .work-item:hover .work-arrow { transform: translate(2px, -2px); }
 .work-type { color: var(--mint); font-size: 10px; letter-spacing: 0.12em; margin-bottom: 4px; }
+.work-type-advent { color: #B03A4A; }
 .work-title { color: var(--text); font-size: 14px; font-weight: 500; line-height: 1.4; margin-bottom: 4px; }
 .work-desc { color: var(--text-muted); font-size: 12px; line-height: 1.6; }
 .work-tech { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
@@ -131,6 +132,7 @@ section:nth-child(4) { animation-delay: 0.3s; }
 .badge-talk      { background: rgba(160,100,50,0.12); color: #7A4E2A; border: 0.5px solid rgba(160,100,50,0.3); }
 .badge-writing   { background: rgba(160,100,50,0.08); color: #7A4E2A; border: 0.5px solid rgba(160,100,50,0.2); }
 .badge-interview { background: rgba(100,80,160,0.10); color: #5A3FA0; border: 0.5px solid rgba(100,80,160,0.25); }
+.badge-advent    { background: rgba(176,58,74,0.10); color: #B03A4A; border: 0.5px solid rgba(176,58,74,0.30); }
 
 /* ACTIVITY — 年表形式 */
 .year-block { margin-bottom: 40px; }

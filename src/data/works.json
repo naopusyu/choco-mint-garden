@@ -1,5 +1,14 @@
 [
   {
+    "date": "2024.12.01",
+    "type": "advent",
+    "title": "Laravel11にあるArtisanコマンドを全部調べる Advent Calendar 2024",
+    "desc": "1人アドベントカレンダーです",
+    "source": "",
+    "url": "https://adventar.org/calendars/10674",
+    "featured": true
+  },
+  {
     "date": "2024.12.03",
     "type": "writing",
     "title": "TECHNICAL MASTER はじめてのPHP エンジニア入門編",
@@ -24,6 +33,15 @@
     "desc": "",
     "source": "",
     "url": "https://vivivi.kaonavi.jp/articles/technical-book_250225/",
+    "featured": true
+  },
+  {
+    "date": "2025.12.01",
+    "type": "advent",
+    "title": "1人で何かを書き続ける Advent Calendar 2025",
+    "desc": "1人アドベントカレンダーです",
+    "source": "",
+    "url": "https://adventar.org/calendars/12514",
     "featured": true
   }
 ] 
