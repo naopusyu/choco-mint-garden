@@ -8,7 +8,7 @@ import note     from '../data/note.json'
 import sizu     from '../data/sizu.json'
 import works    from '../data/works.json'
 
-const activities = [...zenn, ...note, ...sizu]
+const activities = [...zenn, ...note, ...sizu, ...works]
   .sort((a, b) => b.date.localeCompare(a.date)) // 日付降順
 
 const years = [...new Set(activities.map(o => o.date.slice(0, 4)))].sort().reverse()
