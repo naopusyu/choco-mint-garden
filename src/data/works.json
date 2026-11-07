@@ -6,7 +6,7 @@
     "desc": "1人アドベントカレンダーです",
     "source": "",
     "url": "https://adventar.org/calendars/10674",
-    "featured": true
+    "featured": false
   },
   {
     "date": "2024.12.03",
@@ -42,6 +42,6 @@
     "desc": "1人アドベントカレンダーです",
     "source": "",
     "url": "https://adventar.org/calendars/12514",
-    "featured": true
+    "featured": false
   }
 ] 
